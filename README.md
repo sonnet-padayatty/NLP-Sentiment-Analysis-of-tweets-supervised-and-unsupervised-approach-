@@ -1,0 +1,2 @@
+# NLP-Sentiment-Analysis-of-tweets-supervised-and-unsupervised-approach-
+Identifying public opinion can be a powerful tool for businesses. With that in mind, user data has become hugely accessible throughout many different social media platforms. This task focuses heavily on text processing. The data source for this task is a 1-month collection of twitter tweets (July 1 2019 - July 31 2019) throughout London. Each tweet contains a text field with content posted by a user.
